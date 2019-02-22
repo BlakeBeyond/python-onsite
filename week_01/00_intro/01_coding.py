@@ -6,3 +6,8 @@ instead of writing it 3 times.
 Time for co-co-co-ding.
 
 '''
+x = "co-"
+z = ("Time for ", x*3,"ding")
+print(''.join(z))
+
+

@@ -20,7 +20,108 @@ to house materials for the course.
 - Demonstrate removing:
     a. A file
     b. A folder
+```bash
+MacBook-Air-Katarzyna-2% pwd      
+/Users/Blake/Documents/learning/python-onsite/week_01
+MacBook-Air-Katarzyna-2% ..
+zsh: permission denied: ..
+MacBook-Air-Katarzyna-2% ~
+zsh: permission denied: /Users/Blake
+MacBook-Air-Katarzyna-2% cd ..
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake/Documents/learning/python-onsite
+MacBook-Air-Katarzyna-2% cd ..
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake/Documents/learning
+MacBook-Air-Katarzyna-2% cd ..
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake/Documents
+MacBook-Air-Katarzyna-2% cd..
+zsh: command not found: cd..
+MacBook-Air-Katarzyna-2% cd ..
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake
+MacBook-Air-Katarzyna-2% mkdir codingnomads
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake
+MacBook-Air-Katarzyna-2% cd codingnomads
+MacBook-Air-Katarzyna-2% mdkri cli_testing
+zsh: command not found: mdkri
+MacBook-Air-Katarzyna-2% mkdir cli_testing
+MacBook-Air-Katarzyna-2% cd cli_testing
+MacBook-Air-Katarzyna-2% print(cd)
+zsh: number expected
+MacBook-Air-Katarzyna-2% print(pwd)
+zsh: number expected
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake/codingnomads/cli_testing
+MacBook-Air-Katarzyna-2% touch file1.txt
+MacBook-Air-Katarzyna-2% touch file2.txt 
+MacBook-Air-Katarzyna-2% touch file3.txt
+MacBook-Air-Katarzyna-2% ls -la
+total 0
+drwxr-xr-x  5 Blake  staff  170 Feb 22 15:46 .
+drwxr-xr-x  3 Blake  staff  102 Feb 22 15:43 ..
+-rw-r--r--  1 Blake  staff    0 Feb 22 15:45 file1.txt
+-rw-r--r--  1 Blake  staff    0 Feb 22 15:45 file2.txt
+-rw-r--r--  1 Blake  staff    0 Feb 22 15:46 file3.txt
+MacBook-Air-Katarzyna-2% mv file3.txt file4.txt
+MacBook-Air-Katarzyna-2% ls    
+file1.txt       file2.txt       file4.txt
+MacBook-Air-Katarzyna-2% mkdir new_folder
+MacBook-Air-Katarzyna-2% ls
+file1.txt       file2.txt       file4.txt       new_folder
+MacBook-Air-Katarzyna-2% mv file1.txt new_folder
+MacBook-Air-Katarzyna-2% ls
+file2.txt       file4.txt       new_folder
+MacBook-Air-Katarzyna-2% mv file2.txt new_folder
+MacBook-Air-Katarzyna-2% ls
+file4.txt       new_folder
+MacBook-Air-Katarzyna-2% mv file4.txt new_folder
+MacBook-Air-Katarzyna-2% cd new_folder
+MacBook-Air-Katarzyna-2% mv file4.txt ..    
+MacBook-Air-Katarzyna-2% cd cli_testing
+cd: no such file or directory: cli_testing
+MacBook-Air-Katarzyna-2% cd
+MacBook-Air-Katarzyna-2% ls
+Applications                    Downloads                       Music                           Public                          gekko
+Desktop                         Library                         Pictures                        PycharmProjects                 java_error_in_pycharm.hprof
+Documents                       Movies                          PlayOnMac's virtual drives      codingnomads                    newdir
+MacBook-Air-Katarzyna-2% cd newdir
+MacBook-Air-Katarzyna-2% pwd
+/Users/Blake/newdir
+MacBook-Air-Katarzyna-2% cd cli_testing
+cd: no such file or directory: cli_testing
+MacBook-Air-Katarzyna-2% ls
+MacBook-Air-Katarzyna-2% cd ..       
+MacBook-Air-Katarzyna-2% cd codingnomads
+MacBook-Air-Katarzyna-2% ls
+cli_testing
+MacBook-Air-Katarzyna-2% cd cli_testing
+MacBook-Air-Katarzyna-2% ls
+file4.txt       new_folder
+MacBook-Air-Katarzyna-2% cp file4.txt new_folder
+MacBook-Air-Katarzyna-2% cd new_folder
+MacBook-Air-Katarzyna-2% ls
+file1.txt       file2.txt       file4.txt
+MacBook-Air-Katarzyna-2% rv file1.txt
+zsh: command not found: rv
+MacBook-Air-Katarzyna-2% rm file1.txt
+MacBook-Air-Katarzyna-2% ls
+file2.txt       file4.txt
+MacBook-Air-Katarzyna-2% ls
+file2.txt       file4.txt
+MacBook-Air-Katarzyna-2% cd..
+zsh: command not found: cd..
+MacBook-Air-Katarzyna-2% cd ..
+MacBook-Air-Katarzyna-2% mkdir target_folder
+MacBook-Air-Katarzyna-2% ls
+file4.txt       new_folder      target_folder
+MacBook-Air-Katarzyna-2% rm -rf target_folder
+MacBook-Air-Katarzyna-2% ls
+file4.txt       new_folder
 
+```
 
 ## vim
 
