@@ -7,3 +7,12 @@ Take two numbers from the user, an upper and lower bound. Using a loop, calculat
 		The sum is: 5050
 		The average is: 50.5
 '''
+
+lower = int(input("give me the lower range number: "))
+upper = int(input("give me the upper range number: "))
+list_=[]
+for i in range(lower,upper):
+    list_.append(i)
+sum_list = sum(list_)
+print(sum_list)
+print(sum_list / len(list_))
