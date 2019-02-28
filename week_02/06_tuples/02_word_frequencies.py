@@ -12,3 +12,22 @@ l, h, e, o
 For letters that are the same frequency, the order does not matter.
 
 '''
+my_dict = {}
+sorted_list = []
+
+def most_frequent(fstring_):
+
+    for ch in fstring_:
+       if ch not in my_dict:
+           my_dict[ch] = fstring_.count(ch)
+
+    for key, value in sorted(my_dict.items(), key=lambda v: v):
+        sorted_list.append(key)
+    print(sorted_list)
+
+
+function_output = most_frequent("kanapka")
+
+
+
+
