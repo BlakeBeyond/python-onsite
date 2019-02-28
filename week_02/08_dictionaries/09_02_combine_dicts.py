@@ -8,3 +8,14 @@ Then print out each key-value pair.
 dict_1 = {1: 1, 2: 4}
 dict_2 = {3: 9, 4: 16}
 dict_3 = {5: 25, 6: 36, 7: 49}
+
+new_dict = {}
+def add_dict(d):
+    for k, v in d.items():
+        new_dict[k] = v
+add_dict(dict_1)
+add_dict(dict_2)
+add_dict(dict_3)
+
+
+print(new_dict)
