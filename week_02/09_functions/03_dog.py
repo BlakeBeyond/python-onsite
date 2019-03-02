@@ -9,3 +9,23 @@ Write a program with the following three functions:
 
 '''
 
+import time
+
+
+def sleep():
+    time.sleep(5)
+
+
+flag = True
+while flag:
+    for i in range(1, 11):
+        print("bark bark")
+        i += i
+        if i == 10:
+            flag = False
+
+
+def eat(food_item, amount):
+    print("Dog ate", amount, "of", food_item)
+
+
