@@ -10,4 +10,19 @@ Demonstrate 3 interesting string methods of your choice and explain why
 they are invoked like this: str.method()
 
 
+
+We encounter this type of syntax as it is essentially the same as __str__(self) (i think)
+
+
 '''
+
+
+str_ = "Why, oh Barong, the Lion God, why??"
+
+str_.join()
+
+str_.casefold()
+
+str_.isidentifier()
+
+

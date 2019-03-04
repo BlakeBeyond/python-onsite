@@ -23,8 +23,46 @@ Building on the dog exercise in the previous section:
 
 6. Create at least two objects of the dog class to demonstrate the functionality.
 
-
-
-
 '''
+
+#1
+
+
+class Dog:
+
+    def __init__(self, name, color, age, is_hungry=False, percent_full=100):
+        self.name = name
+        self.color = color
+        self.age = age
+        self.is_hungry = is_hungry
+        self.percent_full = percent_full
+#3
+
+    def sleep(self):
+        self.is_hungry = True
+        self.percent_full = 0.8 * self.percent_full
+#4
+
+    def eat(self):
+        self.is_hungry = False
+        self.percent_full = 100
+#5
+
+    def __str__(self):
+        print(self.name)
+        print(self.color)
+        print(self.age)
+        print(self.is_hungry)
+        print(self.percent_full)
+#6
+
+
+dog1 = Dog("Dante", "Ginger", "15", True)
+dog2 = Dog("Bobo", "Black", "3", True)
+
+
+
+
+
+
 
