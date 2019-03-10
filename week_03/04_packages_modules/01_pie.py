@@ -5,3 +5,6 @@ with a precision of more than 10 digits in your console.
 TIP: remember the title of this course section ;)
 
 '''
+import math as m
+print(m.pi)
+print(m.e)

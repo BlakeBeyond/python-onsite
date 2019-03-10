@@ -11,3 +11,13 @@ for i in range(len(courses)):
 '''
 
 classes = ['Intro', 'Intermediate', 'Advanced', 'Epic Hero']
+print(help(enumerate))
+enum = enumerate(classes)
+
+for i in enum:
+    print(i)
+
+for index, value in enumerate(classes, start=1):
+    print(index, value)
+
+

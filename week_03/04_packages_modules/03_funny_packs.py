@@ -5,3 +5,5 @@ standard library. What happens if you type:
 - import antigravity
 
 '''
+import this
+import antigravity

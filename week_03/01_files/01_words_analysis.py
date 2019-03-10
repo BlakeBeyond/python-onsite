@@ -7,3 +7,24 @@ Write a script that reads in the words from the words.txt file and finds and pri
 
 
 '''
+min_words = []
+max_words = []
+word_dict = {}
+with open('words.txt') as file_object:
+    contents = file_object.read().split()
+    print(contents)
+    for i in contents:
+        word_dict[i] = len(i)
+    print(word_dict)
+    for k, v in word_dict.items():
+        if v == min(word_dict.values()):
+            min_words.append(k)
+        if v == max(word_dict.values()):
+            max_words.append(k)
+    print(min_words)
+    print(max_words)
+    print(len(contents))
+
+
+
+

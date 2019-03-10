@@ -9,3 +9,7 @@ TIP:
     very common. head over to SO and find a solution!
 
 '''
+print("2 lines, like boom, what's up now Mr. Martin?")
+import requests
+print(requests.get('https://codingnomads.co/').text)
+

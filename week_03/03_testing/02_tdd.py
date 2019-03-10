@@ -8,3 +8,9 @@ fail and write tests that will check and prevent failure.
 You do not need to implement the actual functions after writing the tests but you may.
 
 '''
+
+'''this test verifies if the file gets input appended to if the word is longer than 20 chars'''
+
+'''this yet another test checks if the function workf for both int and float types'''
+
+'''this test verified if the function returs true if both arguments are true '''
