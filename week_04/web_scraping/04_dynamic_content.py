@@ -8,3 +8,6 @@ Fetch and prepare all the image links - and only the image links!
          your computer using python?
 
 '''
+import requests_html
+
+http://instagram.com/@faces_magazine

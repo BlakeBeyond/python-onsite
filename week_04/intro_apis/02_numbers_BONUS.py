@@ -1,9 +1,4 @@
 '''
-Write a script that connects to the http://numbersapi.com/ and fetches trivia on all
-numbers from 0 through 100.
-
-Store the responses in a new JSON file called numbers.json
-
 BONUS:
 * fetch information of all the prime numbers from 1-1000
 * cycle through the different endpoints the API provides (trivia, math, date, year)
@@ -17,16 +12,22 @@ BONUS:
 import requests
 from pprint import pprint
 from json import dumps
+
 resp_dict = {}
-for num in range(0, 101):
+for num in range(0, 1001):
     url = f"http://numbersapi.com/{num}?type=trivia&notfound=floor&fragment"
-    if num == 7 or num == 36:
+    if num == 7:
         pass
-    else:
-        r = requests.get(url)
-        resp_dict[num] = r.text
+    elif num > 1:
+        for i in range(2, num):
+            if (num % i) == 0:
+                pass
+        else:
+            r = requests.get(url)
+            resp_dict[num] = r.text
+
 pprint(resp_dict)
 
-with open ("numbers.json", "w") as write_file:
-    json_string = dumps(resp_dict)
-    write_file.write(json_string)
+# with open ("numbers.json", "w") as write_file:
+#     json_string = dumps(resp_dict)
+#     write_file.write(json_string

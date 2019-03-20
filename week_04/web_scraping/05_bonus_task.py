@@ -21,3 +21,14 @@ If requests_html doesn't quite make it and you want to learn more
 about scraping dynamic page content, check out 'selenium'.
 
 '''
+
+import selenium
+from selenium import webdriver
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from selenium.webdriver.common.by import By
+from selenium.webdriver.common.keys import keys
+import urllib.request
+import time
+
+try:
