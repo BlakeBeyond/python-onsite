@@ -2,17 +2,76 @@ Using the method of your choice (pgadmin 4 or psql) write the query statements f
 them below:
 
 - Select all the actors with the first name of your choice
-
+SELECT * FROM actor WHERE first_name='Natalie'
 - Select all the actors and the films they have been in
+
+SELECT * from actor as a
+JOIN film_actor as fa
+ON a.actor_id = fa.actor_id
+JOIN film as f
+ON fa.film_id = f.film_id;
 
 - Select all the actors that have appeared in a category of you choice comedy
 
+SELECT first_name, last_name from category as c
+JOIN film_category as fc
+ON c.category_id = fc.category_id
+JOIN film as f
+ON fc.film_id = f.film_id
+JOIN film_actor as fa
+ON f.film_id = fa.film_id
+JOIN actor as a
+ON a.actor_id = fa.actor_id
+WHERE c.name = 'Comedy'
+
+
+
+
 - Select all the comedic films and that and sort them by rental rate
+
+SELECT * from category as c
+JOIN film_category as fc
+ON c.category_id = fc.category_id
+JOIN film as f
+ON fc.film_id = f.film_id
+WHERE c.name = 'Comedy'
+ORDER BY f.rental_rate
 
 - Select all the information about the staff in a zip code of your choice
 
+SELECT * FROM staff as s
+JOIN address as ad
+ON ad.address_id = s.address_id
+where ad.postal_code = '16266'
+
 - Using one of the statements above, add a GROUP BY
 
+SELECT COUNT(c.category_id), rating from category as c
+JOIN film_category as fc
+ON c.category_id = fc.category_id
+JOIN film as f
+ON fc.film_id = f.film_id
+JOIN film_actor as fa
+ON f.film_id = fa.film_id
+JOIN actor as a
+ON a.actor_id = fa.actor_id
+WHERE c.name = 'Comedy'
+GROUP BY f.rating
+ORDER BY COUNT(c.category_id)
+
+
 - Using on of the statements above, add a ORDER BY
+
+SELECT first_name, last_name, length from category as c
+JOIN film_category as fc
+ON c.category_id = fc.category_id
+JOIN film as f
+ON fc.film_id = f.film_id
+JOIN film_actor as fa
+ON f.film_id = fa.film_id
+JOIN actor as a
+ON a.actor_id = fa.actor_id
+WHERE c.name = 'Comedy'
+ORDER BY f.length
 
 

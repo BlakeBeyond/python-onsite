@@ -5,3 +5,39 @@ Copy the commands you used to this file:
 - show all the databases
 - connect to the dvdrental database
 - list all of the tables in the dvdrental database
+
+
+➜  week_05 git:(master) ✗ psql
+psql (11.2, server 10.7)
+Type "help" for help.
+
+Blake=# \?
+Blake=#
+Blake=# \l
+Blake=# \q
+➜  week_05 git:(master) ✗ psql dvdrental Blake
+psql (11.2, server 10.7)
+Type "help" for help.
+
+dvdrental=# \dt
+             List of relations
+ Schema |     Name      | Type  |  Owner
+--------+---------------+-------+----------
+ public | actor         | table | postgres
+ public | address       | table | postgres
+ public | category      | table | postgres
+ public | city          | table | postgres
+ public | country       | table | postgres
+ public | customer      | table | postgres
+ public | film          | table | postgres
+ public | film_actor    | table | postgres
+ public | film_category | table | postgres
+ public | inventory     | table | postgres
+ public | language      | table | postgres
+ public | payment       | table | postgres
+ public | rental        | table | postgres
+ public | staff         | table | postgres
+ public | store         | table | postgres
+(15 rows)
+
+dvdrental=#
