@@ -38,7 +38,7 @@ messages = db.Table('messages', metadata,
                     db.Column('id', db.Integer(), autoincrement=True, primary_key=True),
                     db.Column('link', db.String(500), nullable=False),
                     db.Column('description', db.Text()),
-                    db.Column('date_added', db.Date()),
+                    db.Column('date_added', db.Integer()),
                     db.Column('read', db.Boolean, default=False),
                     db.Column('rating', db.Integer(), default=0),
                     db.Column('starred', db.Boolean(), default=False)
