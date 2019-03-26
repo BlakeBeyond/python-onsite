@@ -14,17 +14,15 @@ from pprint import pprint
 from json import dumps
 
 resp_dict = {}
-for num in range(0, 1001):
+for num in range(0, 10):
     url = f"http://numbersapi.com/{num}?type=trivia&notfound=floor&fragment"
-    if num == 7:
-        pass
-    elif num > 1:
+    if num > 1:
         for i in range(2, num):
             if (num % i) == 0:
                 pass
-        else:
-            r = requests.get(url)
-            resp_dict[num] = r.text
+            else:
+                r = requests.get(url)
+                resp_dict[num] = r.text
 
 pprint(resp_dict)
 

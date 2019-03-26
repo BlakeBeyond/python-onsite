@@ -9,3 +9,6 @@ Using the Chuck Norris API in combination with the datamuse API
 * Synthesize the collected results into an avant-garde poem and present it to class ;)
 
 '''
+import requests
+URLcn = 'https://api.chucknorris.io/'
+URLdm = 'https://www.datamuse.com/api/'

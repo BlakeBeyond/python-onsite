@@ -20,13 +20,13 @@ from json import dumps
 resp_dict = {}
 for num in range(0, 101):
     url = f"http://numbersapi.com/{num}?type=trivia&notfound=floor&fragment"
-    if num == 7 or num == 36:
-        pass
-    else:
-        r = requests.get(url)
-        resp_dict[num] = r.text
+    # if num == 7 or num == 36:
+    #     pass
+    # else:
+    r = requests.get(url)
+    resp_dict[num] = r.text
 pprint(resp_dict)
 
-with open ("numbers.json", "w") as write_file:
-    json_string = dumps(resp_dict)
-    write_file.write(json_string)
+# with open ("numbers.json", "w") as write_file:
+#     json_string = dumps(resp_dict)
+#     write_file.write(json_string)
