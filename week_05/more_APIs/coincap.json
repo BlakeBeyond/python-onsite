@@ -2,232 +2,232 @@
 Project-X
 NANOX
 None
-{'USD': {'price': 24424.7217022, 'volume_24h': 69.5393168851125, 'percent_change_1h': 0.00159011, 'percent_change_24h': 1.17702, 'percent_change_7d': -23.0152, 'market_cap': 1911.576419300981, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 24408.4366312, 'volume_24h': 69.4929518651435, 'percent_change_1h': -0.0396094, 'percent_change_24h': 1.14169, 'percent_change_7d': -22.7575, 'market_cap': 1910.3018845042366, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 1300
 42-coin
 42
 None
-{'USD': {'price': 13119.9968673, 'volume_24h': 200.935277879716, 'percent_change_1h': 2.67435, 'percent_change_24h': 2.123, 'percent_change_7d': -16.2714, 'market_cap': 551039.2877355387, 'last_updated': '2019-03-26T10:42:02.000Z'}}
-312
+{'USD': {'price': 13458.921272, 'volume_24h': 207.956083119417, 'percent_change_1h': 0.83082, 'percent_change_24h': 4.84196, 'percent_change_7d': -14.3226, 'market_cap': 565274.0977321444, 'last_updated': '2019-03-26T11:00:03.000Z'}}
+306
 Primalbase Token
 PBT
 {'id': 1274, 'name': 'Waves', 'symbol': 'WAVES', 'slug': 'waves', 'token_address': 'EdDvbhk4wJ1kL6pMCq1V36GbQE2nGE7Metb87zbaY2JL'}
-{'USD': {'price': 6738.3797811, 'volume_24h': 132632.114338031, 'percent_change_1h': 8.86235, 'percent_change_24h': -2.56542, 'percent_change_7d': -32.6616, 'market_cap': 8422974.726375, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 6893.36503737, 'volume_24h': 132792.262949651, 'percent_change_1h': 4.59574, 'percent_change_24h': -1.42932, 'percent_change_7d': -31.0983, 'market_cap': 8616706.296712501, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 1997
 Wrapped Bitcoin
 WBTC
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2260fac5e5542a773aa44fbcfedf7c193bc2c599'}
-{'USD': {'price': 3965.06342496, 'volume_24h': 1523.32929984123, 'percent_change_1h': -0.169219, 'percent_change_24h': -1.70174, 'percent_change_7d': -2.35009, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
+{'USD': {'price': 3963.37800382, 'volume_24h': 1522.65570751152, 'percent_change_1h': -0.0308975, 'percent_change_24h': -1.71325, 'percent_change_7d': -2.40365, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 1
 Bitcoin
 BTC
 None
-{'USD': {'price': 3959.10029832, 'volume_24h': 10404511298.5973, 'percent_change_1h': -0.00820235, 'percent_change_24h': -1.71901, 'percent_change_7d': -2.11533, 'market_cap': 69723022511.16132, 'last_updated': '2019-03-26T10:42:27.000Z'}}
+{'USD': {'price': 3957.02891595, 'volume_24h': 10414693093.4027, 'percent_change_1h': -0.0253468, 'percent_change_24h': -1.73644, 'percent_change_7d': -2.1919, 'market_cap': 69686543758.73515, 'last_updated': '2019-03-26T11:00:29.000Z'}}
 1819
 RSK Smart Bitcoin
 RBTC
 None
-{'USD': {'price': 3958.13079422, 'volume_24h': 1048600.8803266, 'percent_change_1h': -0.0192239, 'percent_change_24h': -1.77842, 'percent_change_7d': -2.24125, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-1436
+{'USD': {'price': 3955.75040463, 'volume_24h': 1055139.85764679, 'percent_change_1h': -0.0660544, 'percent_change_24h': -1.80349, 'percent_change_7d': -2.32946, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+1437
 bitBTC
 BITBTC
 {'id': 463, 'name': 'BitShares', 'symbol': 'BTS', 'slug': 'bitshares', 'token_address': 'BTC'}
-{'USD': {'price': 3374.71095506, 'volume_24h': 242.077150821846, 'percent_change_1h': -0.502759, 'percent_change_24h': 12.4782, 'percent_change_7d': 0.43642, 'market_cap': 140670.43903743452, 'last_updated': '2019-03-26T10:42:02.000Z'}}
-1868
+{'USD': {'price': 3371.0293067, 'volume_24h': 241.813056220277, 'percent_change_1h': -0.524947, 'percent_change_24h': 12.3554, 'percent_change_7d': 0.326848, 'market_cap': 140516.97431169078, 'last_updated': '2019-03-26T11:00:03.000Z'}}
+1867
 FOIN
 FOIN
 None
-{'USD': {'price': 1027.57728844, 'volume_24h': 209427.099910362, 'percent_change_1h': 2.50504, 'percent_change_24h': 0.814064, 'percent_change_7d': -1.45123, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-1440
+{'USD': {'price': 1026.89215601, 'volume_24h': 209286.728874752, 'percent_change_1h': -0.0473284, 'percent_change_24h': 0.820388, 'percent_change_7d': -1.71699, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+1441
 bitGold
 BITGOLD
 {'id': 463, 'name': 'BitShares', 'symbol': 'BTS', 'slug': 'bitshares', 'token_address': 'GOLD'}
-{'USD': {'price': 731.450567524, 'volume_24h': 0, 'percent_change_1h': 2.84217e-14, 'percent_change_24h': 10.5369, 'percent_change_7d': 0.418517, 'market_cap': 138598.91078728516, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 731.450567524, 'volume_24h': 0, 'percent_change_1h': 2.84217e-14, 'percent_change_24h': 10.5369, 'percent_change_7d': 0.418517, 'market_cap': 138598.91078728516, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 16
 Maker
 MKR
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2'}
-{'USD': {'price': 716.323138657, 'volume_24h': 8078827.91169275, 'percent_change_1h': -0.194044, 'percent_change_24h': -1.97935, 'percent_change_7d': 1.43666, 'market_cap': 716323138.657, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-94
+{'USD': {'price': 717.507324731, 'volume_24h': 8155340.11093542, 'percent_change_1h': 0.0236576, 'percent_change_24h': -1.75877, 'percent_change_7d': 1.58149, 'market_cap': 717507324.7310001, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+93
 ThoreCoin
 THR
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1cb3209d45b2a60b7fbca1ccdbf87f674237a4aa'}
-{'USD': {'price': 545.36905846, 'volume_24h': 99861.9428289599, 'percent_change_1h': -0.00318035, 'percent_change_24h': -1.76821, 'percent_change_7d': -2.06427, 'market_cap': 47275873.92709832, 'last_updated': '2019-03-26T10:42:08.000Z'}}
+{'USD': {'price': 545.005436146, 'volume_24h': 99795.3603374888, 'percent_change_1h': -0.0473284, 'percent_change_24h': -1.80005, 'percent_change_7d': -2.17081, 'market_cap': 47244352.95536903, 'last_updated': '2019-03-26T11:00:09.000Z'}}
 915
 IDEX Membership
 IDXM
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xcc13fc627effd6e35d2d2706ea3c4d7396c610ea'}
-{'USD': {'price': 271.344463734, 'volume_24h': 1187.79117643329, 'percent_change_1h': -0.260591, 'percent_change_24h': -1.14014, 'percent_change_7d': -13.7802, 'market_cap': 542688.927468, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 271.289553814, 'volume_24h': 1187.55081214711, 'percent_change_1h': -0.125568, 'percent_change_24h': -1.13016, 'percent_change_7d': -13.8154, 'market_cap': 542579.107628, 'last_updated': '2019-03-26T11:00:06.000Z'}}
 6
 Bitcoin Cash
 BCH
 None
-{'USD': {'price': 158.816284586, 'volume_24h': 476546610.985972, 'percent_change_1h': -0.157908, 'percent_change_24h': -4.13124, 'percent_change_7d': -1.26373, 'market_cap': 2809994094.0832605, 'last_updated': '2019-03-26T10:42:05.000Z'}}
-74
+{'USD': {'price': 158.58097016, 'volume_24h': 476894478.739838, 'percent_change_1h': -0.243621, 'percent_change_24h': -4.19768, 'percent_change_7d': -1.48358, 'market_cap': 2805836537.4289436, 'last_updated': '2019-03-26T11:00:07.000Z'}}
+75
 Mixin
 XIN
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa974c709cfb4566686553a20790685a47aceaa33'}
-{'USD': {'price': 145.162392085, 'volume_24h': 613186.11362944, 'percent_change_1h': 0.190968, 'percent_change_24h': -1.77033, 'percent_change_7d': -3.87543, 'market_cap': 63228762.92901991, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 144.786196599, 'volume_24h': 613120.551693969, 'percent_change_1h': -0.194819, 'percent_change_24h': -2.01519, 'percent_change_7d': -4.14147, 'market_cap': 63064902.47689032, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 316
 Amoveo
 VEO
 None
-{'USD': {'price': 139.157147999, 'volume_24h': 20884.5665036201, 'percent_change_1h': -3.50675, 'percent_change_24h': 5.79382, 'percent_change_7d': 79.7769, 'market_cap': 8249231.638900116, 'last_updated': '2019-03-26T10:42:09.000Z'}}
+{'USD': {'price': 138.924481437, 'volume_24h': 19221.4693109776, 'percent_change_1h': -0.803761, 'percent_change_24h': 4.22206, 'percent_change_7d': 79.4638, 'market_cap': 8235439.171950605, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 2
 Ethereum
 ETH
 None
-{'USD': {'price': 134.859850321, 'volume_24h': 4640360153.0463, 'percent_change_1h': -0.147222, 'percent_change_24h': -1.72366, 'percent_change_7d': -3.57851, 'market_cap': 14213510103.437809, 'last_updated': '2019-03-26T10:42:21.000Z'}}
-1858
+{'USD': {'price': 134.783652403, 'volume_24h': 4641181421.6162, 'percent_change_1h': -0.110593, 'percent_change_24h': -1.74651, 'percent_change_7d': -3.65334, 'market_cap': 14205505287.146675, 'last_updated': '2019-03-26T11:00:21.000Z'}}
+1857
 WETH
 WETH
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc02aaa39b223fe8d0a0e5c4f27ead9083c756cc2'}
-{'USD': {'price': 131.138335594, 'volume_24h': 262772.450692725, 'percent_change_1h': 1.17126, 'percent_change_24h': -0.674098, 'percent_change_7d': 2.17308, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:07.000Z'}}
+{'USD': {'price': 132.126770348, 'volume_24h': 264431.727367307, 'percent_change_1h': 1.95575, 'percent_change_24h': 0.134962, 'percent_change_7d': 2.90197, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:08.000Z'}}
 15
 Dash
 DASH
 None
-{'USD': {'price': 89.3136482349, 'volume_24h': 255964301.214568, 'percent_change_1h': -0.100244, 'percent_change_24h': -3.48248, 'percent_change_7d': -3.68199, 'market_cap': 777893964.4070274, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-191
+{'USD': {'price': 89.3041082031, 'volume_24h': 256622520.827948, 'percent_change_1h': -0.226632, 'percent_change_24h': -3.36893, 'percent_change_7d': -3.69032, 'market_cap': 777810873.7114378, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+187
 Unobtanium
 UNO
 None
-{'USD': {'price': 86.5168404276, 'volume_24h': 4201.17663436617, 'percent_change_1h': -0.0346686, 'percent_change_24h': -5.54568, 'percent_change_7d': -12.6869, 'market_cap': 17316042.06888986, 'last_updated': '2019-03-26T10:42:01.000Z'}}
+{'USD': {'price': 86.463239312, 'volume_24h': 4198.55264184776, 'percent_change_1h': -0.0596493, 'percent_change_24h': -5.57398, 'percent_change_7d': -12.7565, 'market_cap': 17305319.181455377, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 12
 Bitcoin SV
 BSV
 None
-{'USD': {'price': 64.2484737602, 'volume_24h': 114739404.051091, 'percent_change_1h': -0.123545, 'percent_change_24h': -1.5872, 'percent_change_7d': -3.4364, 'market_cap': 1135292889.8116026, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 64.136248361, 'volume_24h': 115043262.889473, 'percent_change_1h': -0.264882, 'percent_change_24h': -1.7527, 'percent_change_7d': -3.63051, 'market_cap': 1133309827.9532995, 'last_updated': '2019-03-26T11:00:11.000Z'}}
 4
 Litecoin
 LTC
 None
-{'USD': {'price': 59.1363192689, 'volume_24h': 2038993295.98647, 'percent_change_1h': 0.23615, 'percent_change_24h': -1.5096, 'percent_change_7d': -2.0144, 'market_cap': 3610440030.887143, 'last_updated': '2019-03-26T10:42:07.000Z'}}
+{'USD': {'price': 59.0635626061, 'volume_24h': 2036720266.37075, 'percent_change_1h': 0.161364, 'percent_change_24h': -1.59329, 'percent_change_7d': -2.17143, 'market_cap': 3606012796.140379, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 22
 Zcash
 ZEC
 None
-{'USD': {'price': 54.1280660728, 'volume_24h': 191248170.97583, 'percent_change_1h': -0.400155, 'percent_change_24h': -4.74625, 'percent_change_7d': -3.52036, 'market_cap': 334413002.90973413, 'last_updated': '2019-03-26T10:42:04.000Z'}}
+{'USD': {'price': 54.0378694366, 'volume_24h': 191498199.764137, 'percent_change_1h': -0.360261, 'percent_change_24h': -4.90547, 'percent_change_7d': -3.77175, 'market_cap': 333858453.636622, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 13
 Monero
 XMR
 None
-{'USD': {'price': 51.6770092392, 'volume_24h': 94594313.2349134, 'percent_change_1h': 0.0332539, 'percent_change_24h': -3.57331, 'percent_change_7d': -4.38386, 'market_cap': 872194938.4766688, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-455
+{'USD': {'price': 51.6431689195, 'volume_24h': 94383665.3109403, 'percent_change_1h': -0.0833502, 'percent_change_24h': -3.5879, 'percent_change_7d': -4.49038, 'market_cap': 871625487.8087568, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+454
 Digix Gold Token
 DGX
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4f3afec4e5a3f2a6a1a411def7d7dfe50ee057bf'}
-{'USD': {'price': 42.7650061318, 'volume_24h': 7395.36736164176, 'percent_change_1h': -0.0385149, 'percent_change_24h': -0.138866, 'percent_change_7d': 2.49273, 'market_cap': 4249718.934290094, 'last_updated': '2019-03-26T10:42:07.000Z'}}
-142
+{'USD': {'price': 42.7600516085, 'volume_24h': 7394.50835354318, 'percent_change_1h': -0.00907138, 'percent_change_24h': -0.101721, 'percent_change_7d': 2.48694, 'market_cap': 4249226.584741178, 'last_updated': '2019-03-26T11:00:08.000Z'}}
+143
 Obyte
 GBYTE
 None
-{'USD': {'price': 38.7713210592, 'volume_24h': 30694.6944449842, 'percent_change_1h': -2.00304, 'percent_change_24h': -9.7782, 'percent_change_7d': 1.38938, 'market_cap': 26326045.213636827, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 38.7767105243, 'volume_24h': 30818.24918631, 'percent_change_1h': -1.80403, 'percent_change_24h': -9.8901, 'percent_change_7d': 1.36946, 'market_cap': 26329704.7046736, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 205
 PLATINCOIN
 PLC
 None
-{'USD': {'price': 22.0286624642, 'volume_24h': 4320943.16484519, 'percent_change_1h': -1.42174, 'percent_change_24h': 0.776892, 'percent_change_7d': -0.488327, 'market_cap': 15420063.72494, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-393
+{'USD': {'price': 22.0229348135, 'volume_24h': 4320744.1584626, 'percent_change_1h': -1.14505, 'percent_change_24h': 0.291288, 'percent_change_7d': -0.628203, 'market_cap': 15416054.369450001, 'last_updated': '2019-03-26T11:00:09.000Z'}}
+391
 AurumCoin
 AU
 None
-{'USD': {'price': 18.9667054124, 'volume_24h': 4011.42914590883, 'percent_change_1h': -0.00318034, 'percent_change_24h': 1.15945, 'percent_change_7d': -2.09815, 'market_cap': 5657443.529965899, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 18.9540594488, 'volume_24h': 4008.7545439601, 'percent_change_1h': -0.0487635, 'percent_change_24h': 1.12412, 'percent_change_7d': -2.11361, 'market_cap': 5653671.455512619, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 34
 Decred
 DCR
 None
-{'USD': {'price': 18.4957219629, 'volume_24h': 3101711.03016774, 'percent_change_1h': -0.75295, 'percent_change_24h': -1.99519, 'percent_change_7d': -4.32551, 'market_cap': 176181582.05200732, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 18.433216897, 'volume_24h': 3123050.09688084, 'percent_change_1h': -1.09632, 'percent_change_24h': -2.33027, 'percent_change_7d': -4.63069, 'market_cap': 175588835.11165515, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 117
 DigixDAO
 DGD
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xe0b7927c4af23765cb51314a0e0521a9645f0e2a'}
-{'USD': {'price': 17.5552487245, 'volume_24h': 1622346.36562225, 'percent_change_1h': -3.80308, 'percent_change_24h': -8.0246, 'percent_change_7d': 3.91295, 'market_cap': 35110497.449, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 17.5570678003, 'volume_24h': 1630483.29635192, 'percent_change_1h': -2.44059, 'percent_change_24h': -8.46816, 'percent_change_7d': 3.93157, 'market_cap': 35114135.600600004, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 7
 Binance Coin
 BNB
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xB8c77482e45F1F44dE1745F52C74426C631bDD52'}
-{'USD': {'price': 16.3797089523, 'volume_24h': 163274718.8236, 'percent_change_1h': 0.229153, 'percent_change_24h': -3.12068, 'percent_change_7d': 3.71996, 'market_cap': 2312413441.362229, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-96
+{'USD': {'price': 16.3566193508, 'volume_24h': 163422023.20089, 'percent_change_1h': 0.148268, 'percent_change_24h': -3.13296, 'percent_change_7d': 3.56072, 'market_cap': 2309153755.550974, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+95
 Qubitica
 QBIT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1602af2C782cC03F9241992E243290Fccf73Bb13'}
-{'USD': {'price': 16.1319274091, 'volume_24h': 73251.7973110085, 'percent_change_1h': -0.0366153, 'percent_change_24h': -8.81705, 'percent_change_7d': -9.95179, 'market_cap': 45173888.034806, 'last_updated': '2019-03-26T10:42:08.000Z'}}
+{'USD': {'price': 16.1287684266, 'volume_24h': 73237.0059172138, 'percent_change_1h': 0.00439178, 'percent_change_24h': -8.78158, 'percent_change_7d': -9.96664, 'market_cap': 45165042.00431379, 'last_updated': '2019-03-26T11:00:09.000Z'}}
 38
 Augur
 REP
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1985365e9f78359a9b6ad760e32412f4a445e862'}
-{'USD': {'price': 14.8173029966, 'volume_24h': 6207539.01393919, 'percent_change_1h': -0.207247, 'percent_change_24h': -4.26398, 'percent_change_7d': 0.390491, 'market_cap': 162990332.9626, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 14.7742272016, 'volume_24h': 6238075.28872681, 'percent_change_1h': -0.2928, 'percent_change_24h': -4.63536, 'percent_change_7d': 0.12644, 'market_cap': 162516499.21760002, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 436
 Cajutel
 CAJ
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x3c6a7ab47b5f058be0e7c7fe1a4b7925b8aca40e'}
-{'USD': {'price': 14.2158370359, 'volume_24h': 10400.8644444715, 'percent_change_1h': 0.23187, 'percent_change_24h': -48.1458, 'percent_change_7d': 0.130749, 'market_cap': 4648219.8497096505, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-204
+{'USD': {'price': 14.2088271157, 'volume_24h': 10395.7403484841, 'percent_change_1h': 0.233348, 'percent_change_24h': -48.1523, 'percent_change_7d': 1.00742, 'market_cap': 4645927.78276092, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+203
 Gnosis
 GNO
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6810e776880c02933d47db1b9fc05908e5386b96'}
-{'USD': {'price': 14.0160242565, 'volume_24h': 47582.8658316632, 'percent_change_1h': 0.965249, 'percent_change_24h': 1.58119, 'percent_change_7d': -1.90683, 'market_cap': 15481960.233487334, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 14.1644037488, 'volume_24h': 62891.5500851969, 'percent_change_1h': 2.13653, 'percent_change_24h': 2.62518, 'percent_change_7d': -0.789953, 'market_cap': 15645858.736886991, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 130
 Veritaseum
 VERI
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x8f3470A7388c05eE4e7AF3d01D8C722b0FF52374'}
-{'USD': {'price': 13.7524436602, 'volume_24h': 2279779.40272448, 'percent_change_1h': -0.665753, 'percent_change_24h': -6.78313, 'percent_change_7d': -9.61524, 'market_cap': 29562891.555449642, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-1420
+{'USD': {'price': 13.8066690192, 'volume_24h': 2298966.47386991, 'percent_change_1h': -0.0817807, 'percent_change_24h': -6.77915, 'percent_change_7d': -9.27371, 'market_cap': 29679456.90538171, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+1421
 Mithril Ore
 MORE
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x501262281b2ba043e2fbf14904980689cddb0c78'}
-{'USD': {'price': 13.4000608548, 'volume_24h': 0, 'percent_change_1h': -1.42109e-14, 'percent_change_24h': -4.26326e-14, 'percent_change_7d': 0.482795, 'market_cap': 159674.32114214552, 'last_updated': '2019-03-26T10:42:08.000Z'}}
+{'USD': {'price': 13.4000608548, 'volume_24h': 0, 'percent_change_1h': -1.42109e-14, 'percent_change_24h': -4.26326e-14, 'percent_change_7d': 0.461907, 'market_cap': 159674.32114214552, 'last_updated': '2019-03-26T11:00:09.000Z'}}
 31
 Bitcoin Gold
 BTG
 None
-{'USD': {'price': 12.3336266056, 'volume_24h': 9540628.54237525, 'percent_change_1h': -0.0637777, 'percent_change_24h': -4.42371, 'percent_change_7d': -7.16668, 'market_cap': 214776831.28510183, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 12.3307431261, 'volume_24h': 9538292.91793174, 'percent_change_1h': -0.0152997, 'percent_change_24h': -4.2792, 'percent_change_7d': -7.19843, 'market_cap': 214726618.59341842, 'last_updated': '2019-03-26T11:00:06.000Z'}}
 1990
 Bitcoin God
 GOD
 None
-{'USD': {'price': 12.2222059776, 'volume_24h': 3174.50176202302, 'percent_change_1h': 8.24169, 'percent_change_24h': 0.264717, 'percent_change_7d': 23.0933, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 12.2187436375, 'volume_24h': 3173.59843588276, 'percent_change_1h': 8.19868, 'percent_change_24h': 0.229963, 'percent_change_7d': 23.6242, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:06.000Z'}}
 1976
 Jinbi Token
 JNB
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x21d5a14e625d767ce6b7a167491c2d18e0785fda'}
-{'USD': {'price': 11.9878436777, 'volume_24h': 5996.31721870814, 'percent_change_1h': 0.412065, 'percent_change_24h': -2.47245, 'percent_change_7d': -2.87956, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 12.0514856264, 'volume_24h': 6029.51404041327, 'percent_change_1h': 1.03663, 'percent_change_24h': -1.19449, 'percent_change_7d': -2.34, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:11.000Z'}}
 1979
 INMAX
 INX
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x018d7d179350f1bb9853d04982820e37cce13a92'}
-{'USD': {'price': 10.6008477833, 'volume_24h': 5415.98555234889, 'percent_change_1h': -0.555875, 'percent_change_24h': -11.1711, 'percent_change_7d': -9.06355, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-1389
-bitSilver
-BITSILVER
-{'id': 463, 'name': 'BitShares', 'symbol': 'BTS', 'slug': 'bitshares', 'token_address': 'SILVER'}
-{'USD': {'price': 10.33807805, 'volume_24h': 0, 'percent_change_1h': 0, 'percent_change_24h': 22.5432, 'percent_change_7d': 10.3809, 'market_cap': 220146.270651335, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 10.3647874144, 'volume_24h': 5374.3571759646, 'percent_change_1h': -2.24658, 'percent_change_24h': -13.1422, 'percent_change_7d': -11.1359, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 1802
 Lightning Bitcoin
 LBTC
 None
-{'USD': {'price': 9.9302942942, 'volume_24h': 3738223.61434102, 'percent_change_1h': 12.1823, 'percent_change_24h': -1.9519, 'percent_change_7d': -10.1196, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 10.3407238012, 'volume_24h': 3785759.60080949, 'percent_change_1h': 10.5846, 'percent_change_24h': 1.85654, 'percent_change_7d': -7.00736, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:07.000Z'}}
+1388
+bitSilver
+BITSILVER
+{'id': 463, 'name': 'BitShares', 'symbol': 'BTS', 'slug': 'bitshares', 'token_address': 'SILVER'}
+{'USD': {'price': 10.33807805, 'volume_24h': 0, 'percent_change_1h': 0, 'percent_change_24h': 22.5432, 'percent_change_7d': 10.3809, 'market_cap': 220146.270651335, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 1660
 KingN Coin
 KNC
 None
-{'USD': {'price': 9.66271098986, 'volume_24h': 0, 'percent_change_1h': 0, 'percent_change_24h': 7.10543e-14, 'percent_change_7d': 3.6081, 'market_cap': 19412.743915361974, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 9.66271098986, 'volume_24h': 0, 'percent_change_1h': 0, 'percent_change_24h': 7.10543e-14, 'percent_change_7d': 3.6081, 'market_cap': 19412.743915361974, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 17
 NEO
 NEO
 None
-{'USD': {'price': 8.99813815014, 'volume_24h': 298068799.752555, 'percent_change_1h': 0.721288, 'percent_change_24h': -2.1887, 'percent_change_7d': -2.19166, 'market_cap': 584878979.7591001, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-299
+{'USD': {'price': 8.94098461917, 'volume_24h': 298741222.527883, 'percent_change_1h': 0.218539, 'percent_change_24h': -2.96226, 'percent_change_7d': -2.84084, 'market_cap': 581164000.24605, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+300
 Melon
 MLN
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xbeb9ef514a379b997e0798fdcc901ee474b6d9a1'}
-{'USD': {'price': 7.881833429, 'volume_24h': 135336.18978194, 'percent_change_1h': -1.03887, 'percent_change_24h': -9.66545, 'percent_change_7d': -27.624, 'market_cap': 9038787.347527025, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 7.95412728703, 'volume_24h': 135938.3648773, 'percent_change_1h': 0.878422, 'percent_change_24h': -8.80969, 'percent_change_7d': -26.9942, 'market_cap': 9121693.033767642, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 275
 Numeraire
 NMR
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1776e1f26f98b1a5df9cd347953a26dd3cb46671'}
-{'USD': {'price': 7.70280099553, 'volume_24h': 123677.395766011, 'percent_change_1h': 0.529496, 'percent_change_24h': -4.03993, 'percent_change_7d': 45.4089, 'market_cap': 10393606.187515251, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 7.68529549459, 'volume_24h': 124985.92201078, 'percent_change_1h': 0.808617, 'percent_change_24h': -4.81253, 'percent_change_7d': 45.0375, 'market_cap': 10369985.52238433, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 2119
 Crowdvilla Point
 CROWD
@@ -237,264 +237,264 @@ CROWD
 Livepeer
 LPT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x58b6a8a3302369daec383334672404ee733ab239'}
-{'USD': {'price': 6.94089404505, 'volume_24h': 15948.1418175787, 'percent_change_1h': 0.909607, 'percent_change_24h': -7.8157, 'percent_change_7d': -7.3883, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-1388
+{'USD': {'price': 6.9427272079, 'volume_24h': 15954.635196356, 'percent_change_1h': 0.665716, 'percent_change_24h': -7.61495, 'percent_change_7d': -7.45187, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+1387
 iTicoin
 ITI
 None
-{'USD': {'price': 6.88320635655, 'volume_24h': 0, 'percent_change_1h': 2.84217e-14, 'percent_change_24h': -5.68434e-14, 'percent_change_7d': 0.286377, 'market_cap': 220262.60340959998, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-93
+{'USD': {'price': 6.88320635655, 'volume_24h': 0, 'percent_change_1h': 2.84217e-14, 'percent_change_24h': -5.68434e-14, 'percent_change_7d': 0.267032, 'market_cap': 220262.60340959998, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+91
 Zcoin
 XZC
 None
-{'USD': {'price': 6.69246503813, 'volume_24h': 943710.075436494, 'percent_change_1h': 0.49262, 'percent_change_24h': 0.0314278, 'percent_change_7d': -0.305851, 'market_cap': 47343590.7585605, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-108
+{'USD': {'price': 6.75963403395, 'volume_24h': 950161.806161672, 'percent_change_1h': 1.4542, 'percent_change_24h': 1.01752, 'percent_change_7d': 0.666392, 'market_cap': 47819600.159942605, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+109
 Horizen
 ZEN
 None
-{'USD': {'price': 6.37318516242, 'volume_24h': 862666.550146275, 'percent_change_1h': -0.194324, 'percent_change_24h': -2.45539, 'percent_change_7d': -5.72453, 'market_cap': 38838349.709416546, 'last_updated': '2019-03-26T10:42:04.000Z'}}
+{'USD': {'price': 6.37631133387, 'volume_24h': 862083.686493, 'percent_change_1h': -0.0281379, 'percent_change_24h': -2.39526, 'percent_change_7d': -5.69212, 'market_cap': 38857958.603628844, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 2121
 DEXTER
 DXR
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfff3ada5a2555a2b59bff4f44dfad90146cce8cb'}
-{'USD': {'price': 6.21885061527, 'volume_24h': 0, 'percent_change_1h': 0.0602381, 'percent_change_24h': -0.24331, 'percent_change_7d': 37.9237, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
+{'USD': {'price': 6.21885061527, 'volume_24h': 0, 'percent_change_1h': 0.0200632, 'percent_change_24h': -0.399835, 'percent_change_7d': 38.0369, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 372
 SaluS
 SLS
 None
-{'USD': {'price': 6.14787325061, 'volume_24h': 5698.84685182076, 'percent_change_1h': -0.0711193, 'percent_change_24h': 2.04765, 'percent_change_7d': 0.606566, 'market_cap': 6223278.585079798, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 6.17760377406, 'volume_24h': 6004.79698651214, 'percent_change_1h': 0.486238, 'percent_change_24h': 2.56191, 'percent_change_7d': 1.08465, 'market_cap': 6253373.761471282, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 80
 Factom
 FCT
 None
-{'USD': {'price': 6.0599235898, 'volume_24h': 70591.0038475269, 'percent_change_1h': 0.176645, 'percent_change_24h': -0.880421, 'percent_change_7d': -6.14562, 'market_cap': 57048084.36331505, 'last_updated': '2019-03-26T10:42:02.000Z'}}
-175
+{'USD': {'price': 6.04641262473, 'volume_24h': 71761.3875054575, 'percent_change_1h': 0.151322, 'percent_change_24h': -1.02338, 'percent_change_7d': -6.35337, 'market_cap': 56921960.25742981, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+174
 Clams
 CLAM
 None
-{'USD': {'price': 5.31623283822, 'volume_24h': 62466.0009464112, 'percent_change_1h': -0.266919, 'percent_change_24h': -1.10147, 'percent_change_7d': 38.6535, 'market_cap': 18672198.840002444, 'last_updated': '2019-03-26T10:42:02.000Z'}}
-1880
-Solareum
-SLRM
-{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x56ee8c9bd1d445a3324ad83e86d8be309db8f85d'}
-{'USD': {'price': 4.70226716511, 'volume_24h': 124565.012095188, 'percent_change_1h': 0.724324, 'percent_change_24h': None, 'percent_change_7d': None, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 5.34242445592, 'volume_24h': 61100.6495310206, 'percent_change_1h': 0.178129, 'percent_change_24h': -1.17486, 'percent_change_7d': 39.2627, 'market_cap': 18764325.191095058, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 19
 Ethereum Classic
 ETC
 None
-{'USD': {'price': 4.68452468627, 'volume_24h': 206095619.503261, 'percent_change_1h': -0.347444, 'percent_change_24h': -2.08166, 'percent_change_7d': 4.68385, 'market_cap': 511768122.88863236, 'last_updated': '2019-03-26T10:42:04.000Z'}}
+{'USD': {'price': 4.68454193112, 'volume_24h': 205886224.339397, 'percent_change_1h': -0.180728, 'percent_change_24h': -2.00227, 'percent_change_7d': 4.51635, 'market_cap': 511771622.99582845, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+1881
+Solareum
+SLRM
+{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x56ee8c9bd1d445a3324ad83e86d8be309db8f85d'}
+{'USD': {'price': 4.68254716694, 'volume_24h': 124379.601632241, 'percent_change_1h': -0.040674, 'percent_change_24h': None, 'percent_change_7d': None, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 1408
 BitBar
 BTB
 None
-{'USD': {'price': 4.63432436811, 'volume_24h': 108.213160921318, 'percent_change_1h': -0.582738, 'percent_change_24h': -0.609497, 'percent_change_7d': -10.5475, 'market_cap': 188439.8675377442, 'last_updated': '2019-03-26T10:42:02.000Z'}}
-905
+{'USD': {'price': 4.62804116763, 'volume_24h': 107.145991290243, 'percent_change_1h': -0.477911, 'percent_change_24h': -0.357966, 'percent_change_7d': -10.7292, 'market_cap': 188184.7498699154, 'last_updated': '2019-03-26T11:00:03.000Z'}}
+910
 Bitcoin Plus
 XBC
 None
-{'USD': {'price': 4.60747640637, 'volume_24h': 2105.52429176472, 'percent_change_1h': -0.336937, 'percent_change_24h': -2.36473, 'percent_change_7d': -5.65716, 'market_cap': 559775.6100537379, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 4.64726457175, 'volume_24h': 2127.02884303724, 'percent_change_1h': -0.027923, 'percent_change_24h': -1.45193, 'percent_change_7d': -4.86995, 'market_cap': 564610.2231963106, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 1307
 Speed Mining Service
 SMS
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x39013f961c378f02c2b82a6e1d31e9812786fd9d'}
-{'USD': {'price': 4.54505339118, 'volume_24h': 25.6465901425517, 'percent_change_1h': -0.00318034, 'percent_change_24h': 276.49, 'percent_change_7d': 2.1349, 'market_cap': 475776.5844083674, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 4.54202299772, 'volume_24h': 25.6294903964316, 'percent_change_1h': -0.0473284, 'percent_change_24h': 276.368, 'percent_change_7d': 2.0668, 'market_cap': 475459.3625573304, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 1875
 Flowchain
 FLC
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x5b53f9755f82439cba66007ec7073c59e0da4a7d'}
-{'USD': {'price': 4.49993609677, 'volume_24h': 147868.008731129, 'percent_change_1h': -0.22137, 'percent_change_24h': -1.43029, 'percent_change_7d': -2.27608, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 4.49638126493, 'volume_24h': 149017.956812016, 'percent_change_1h': -0.123336, 'percent_change_24h': -1.34181, 'percent_change_7d': -2.38234, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:11.000Z'}}
 1920
 RoboCalls
 RC20
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x61b2d3ea9f1c6b387c985c73d40e8fbfb284e5c7'}
-{'USD': {'price': 4.42671889287, 'volume_24h': 31024.3129228564, 'percent_change_1h': -0.126594, 'percent_change_24h': -61.0765, 'percent_change_7d': 430.539, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
-162
+{'USD': {'price': 4.42582293473, 'volume_24h': 31018.0194378451, 'percent_change_1h': -0.0484171, 'percent_change_24h': -61.3879, 'percent_change_7d': 430.878, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+164
 Smartlands
 SLT
 {'id': 512, 'name': 'Stellar', 'symbol': 'XLM', 'slug': 'stellar', 'token_address': 'GCKA6K5PCQ6PNF5RQBF7PQDJWRHO6UOGFMRLK3DYHDOI244V47XKQ4GP'}
-{'USD': {'price': 4.10078743683, 'volume_24h': 80346.7427404959, 'percent_change_1h': -1.57053, 'percent_change_24h': -10.4523, 'percent_change_7d': -6.94389, 'market_cap': 20917688.7981008, 'last_updated': '2019-03-26T10:42:06.000Z'}}
-1816
+{'USD': {'price': 4.09409930571, 'volume_24h': 78713.3482003414, 'percent_change_1h': -1.36969, 'percent_change_24h': -10.3441, 'percent_change_7d': -7.36022, 'market_cap': 20883573.339164164, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+1815
 Super Bitcoin
 SBTC
 None
-{'USD': {'price': 4.09329583765, 'volume_24h': 1271676.4894916, 'percent_change_1h': 8.43171, 'percent_change_24h': 13.2322, 'percent_change_7d': 15.9781, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:06.000Z'}}
-189
+{'USD': {'price': 3.94765177796, 'volume_24h': 1243017.89727567, 'percent_change_1h': 7.04811, 'percent_change_24h': 8.78644, 'percent_change_7d': 10.9962, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:07.000Z'}}
+186
 Genesis Vision
 GVT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x103c3a209da59d3e7c4a89307e66521e081cfdf0'}
-{'USD': {'price': 3.9376584085, 'volume_24h': 1394887.02970453, 'percent_change_1h': 0.699464, 'percent_change_24h': -0.710033, 'percent_change_7d': -3.40355, 'market_cap': 17431554.29651419, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-1202
+{'USD': {'price': 3.9348263561, 'volume_24h': 1410461.38709255, 'percent_change_1h': 0.516658, 'percent_change_24h': -0.73853, 'percent_change_7d': -3.49103, 'market_cap': 17419017.131006233, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+1201
 KUN
 KUN
 {'id': 1274, 'name': 'Waves', 'symbol': 'WAVES', 'slug': 'waves', 'token_address': 'F6EK5bcdEShWPA9pGdgqGYmPPUZ9FaHnyVwPZfXCTxV7'}
-{'USD': {'price': 3.67951713669, 'volume_24h': 1125.93224382678, 'percent_change_1h': 3.07877, 'percent_change_24h': -5.71193, 'percent_change_7d': -8.13578, 'market_cap': 7359.03427338, 'last_updated': '2019-03-26T10:42:09.000Z'}}
+{'USD': {'price': 3.67706383555, 'volume_24h': 1125.18153367737, 'percent_change_1h': 0.709916, 'percent_change_24h': -5.66746, 'percent_change_7d': -8.17342, 'market_cap': 7354.1276711, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 5
 EOS
 EOS
 None
-{'USD': {'price': 3.65773318583, 'volume_24h': 1690183232.9514, 'percent_change_1h': 0.173867, 'percent_change_24h': -0.275258, 'percent_change_7d': -2.69152, 'market_cap': 3314802841.141931, 'last_updated': '2019-03-26T10:42:06.000Z'}}
+{'USD': {'price': 3.65411001974, 'volume_24h': 1691459363.64158, 'percent_change_1h': 0.136763, 'percent_change_24h': -0.328085, 'percent_change_7d': -2.81706, 'market_cap': 3311519364.562615, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 1799
 Cosmos
 ATOM
 None
-{'USD': {'price': 3.57917414598, 'volume_24h': 7112756.98508164, 'percent_change_1h': -1.05503, 'percent_change_24h': -4.6419, 'percent_change_7d': -27.8019, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 3.58201684099, 'volume_24h': 7189037.36322739, 'percent_change_1h': -0.99223, 'percent_change_24h': -4.85683, 'percent_change_7d': -27.6842, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 1882
 United Bitcoin
 UBTC
 None
-{'USD': {'price': 3.43581402778, 'volume_24h': 136541.099753752, 'percent_change_1h': -0.678129, 'percent_change_24h': -7.91692, 'percent_change_7d': -48.4964, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:05.000Z'}}
-87
+{'USD': {'price': 3.49408445638, 'volume_24h': 128961.69120403, 'percent_change_1h': 0.59241, 'percent_change_24h': -6.90078, 'percent_change_7d': -47.4174, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+86
 Crypto.com
 MCO
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xb63b606ac810a52cca15e44bb630fd42d8d1d83d'}
-{'USD': {'price': 3.18389538934, 'volume_24h': 3144817.18162713, 'percent_change_1h': -0.275691, 'percent_change_24h': -0.229993, 'percent_change_7d': -5.32841, 'market_cap': 50285906.00326583, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-129
-Quant
-QNT
-{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4a220e6096b25eadb88358cb44068a3248254675'}
-{'USD': {'price': 3.11354050804, 'volume_24h': 2206857.51967897, 'percent_change_1h': -0.403331, 'percent_change_24h': -7.87884, 'percent_change_7d': -10.6401, 'market_cap': 30441819.844500493, 'last_updated': '2019-03-26T10:42:08.000Z'}}
+{'USD': {'price': 3.18446662087, 'volume_24h': 3141252.1949955, 'percent_change_1h': -0.369505, 'percent_change_24h': -0.364128, 'percent_change_7d': -5.31338, 'market_cap': 50294927.937566765, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 1801
 Filecoin [Futures]
 FIL
 None
-{'USD': {'price': 3.09010702195, 'volume_24h': 5348617.90277574, 'percent_change_1h': -4.67593, 'percent_change_24h': -3.67733, 'percent_change_7d': 0.464047, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:06.000Z'}}
-1849
+{'USD': {'price': 3.14589551972, 'volume_24h': 5457430.69060858, 'percent_change_1h': -1.55281, 'percent_change_24h': -2.15133, 'percent_change_7d': 2.31864, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+129
+Quant
+QNT
+{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x4a220e6096b25eadb88358cb44068a3248254675'}
+{'USD': {'price': 3.12342384777, 'volume_24h': 2203149.3220144, 'percent_change_1h': -0.0329149, 'percent_change_24h': -7.53898, 'percent_change_7d': -10.4408, 'market_cap': 30538451.587927546, 'last_updated': '2019-03-26T11:00:09.000Z'}}
+1848
 FuturoCoin
 FTO
 None
-{'USD': {'price': 3.06219840481, 'volume_24h': 338556.387376667, 'percent_change_1h': 0.419046, 'percent_change_24h': -1.2071, 'percent_change_7d': -2.80121, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:07.000Z'}}
-1239
+{'USD': {'price': 3.05760613236, 'volume_24h': 336671.230732405, 'percent_change_1h': -0.0103677, 'percent_change_24h': -1.26689, 'percent_change_7d': -2.96292, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:08.000Z'}}
+1238
 Omni
 OMNI
 None
-{'USD': {'price': 2.95186240592, 'volume_24h': 372.775733955047, 'percent_change_1h': -0.1186, 'percent_change_24h': 0.968868, 'percent_change_7d': -3.60851, 'market_cap': 1658865.8956575452, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 2.95281046232, 'volume_24h': 376.827105429104, 'percent_change_1h': -0.061946, 'percent_change_24h': 0.890576, 'percent_change_7d': -3.60744, 'market_cap': 1659398.7856913614, 'last_updated': '2019-03-26T11:00:03.000Z'}}
 24
 Waves
 WAVES
 None
-{'USD': {'price': 2.7018364679, 'volume_24h': 9810401.8713866, 'percent_change_1h': -0.561699, 'percent_change_24h': -1.8031, 'percent_change_7d': -2.46766, 'market_cap': 270183646.79, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 2.70468411173, 'volume_24h': 9888671.79585101, 'percent_change_1h': -0.677544, 'percent_change_24h': -1.66181, 'percent_change_7d': -2.38348, 'market_cap': 270468411.173, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 140
 Gas
 GAS
 {'id': 1376, 'name': 'NEO', 'symbol': 'NEO', 'slug': 'neo', 'token_address': '602c79718b16e442de58778e148d0b1084e3b2dffd5de6b7b16cee7969282de7'}
-{'USD': {'price': 2.66985004712, 'volume_24h': 1556756.42106482, 'percent_change_1h': -0.16462, 'percent_change_24h': -2.18274, 'percent_change_7d': 0.0485061, 'market_cap': 27041242.75339708, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-381
+{'USD': {'price': 2.66893133209, 'volume_24h': 1551537.27928306, 'percent_change_1h': -0.221384, 'percent_change_24h': -2.35706, 'percent_change_7d': -0.00177757, 'market_cap': 27031937.66295793, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+383
 Lunyr
 LUN
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xfa05A73FfE78ef8f1a739473e462c54bae6567D9'}
-{'USD': {'price': 2.60887496347, 'volume_24h': 8547481.42828913, 'percent_change_1h': 0.687847, 'percent_change_24h': 4.44787, 'percent_change_7d': 4.37926, 'market_cap': 5994811.366313503, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-105
+{'USD': {'price': 2.59774369002, 'volume_24h': 8628730.72261488, 'percent_change_1h': 0.808729, 'percent_change_24h': 4.13046, 'percent_change_7d': 3.93873, 'market_cap': 5969233.335348444, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+107
 Elastos
 ELA
 None
-{'USD': {'price': 2.59074462994, 'volume_24h': 1948218.58697026, 'percent_change_1h': -0.930658, 'percent_change_24h': -2.29662, 'percent_change_7d': -7.4752, 'market_cap': 39038184.58314879, 'last_updated': '2019-03-26T10:42:05.000Z'}}
-48
-Huobi Token
-HT
-{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6f259637dcd74c767781e37bc6133cd6a68aa161'}
-{'USD': {'price': 2.55775826415, 'volume_24h': 95265809.8527828, 'percent_change_1h': 0.248134, 'percent_change_24h': 0.818861, 'percent_change_7d': 19.6691, 'market_cap': 127888424.75915283, 'last_updated': '2019-03-26T10:42:06.000Z'}}
+{'USD': {'price': 2.59023843761, 'volume_24h': 1951116.72137939, 'percent_change_1h': -0.323603, 'percent_change_24h': -2.28933, 'percent_change_7d': -7.49787, 'market_cap': 39030593.52757666, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 1874
 Exchange Union
 XUC
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xc324a2f6b05880503444451b8b27e6f9e63287cb'}
-{'USD': {'price': 2.55296804194, 'volume_24h': 151799.081076263, 'percent_change_1h': 0.0771921, 'percent_change_24h': -1.51218, 'percent_change_7d': -25.3965, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:05.000Z'}}
-667
+{'USD': {'price': 2.56615192875, 'volume_24h': 152443.53184076, 'percent_change_1h': -0.779924, 'percent_change_24h': -0.886187, 'percent_change_7d': -24.755, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:06.000Z'}}
+48
+Huobi Token
+HT
+{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6f259637dcd74c767781e37bc6133cd6a68aa161'}
+{'USD': {'price': 2.5603161825, 'volume_24h': 96335847.0409705, 'percent_change_1h': 0.802459, 'percent_change_24h': 1.03082, 'percent_change_7d': 19.4197, 'market_cap': 128016321.18823649, 'last_updated': '2019-03-26T11:00:07.000Z'}}
+665
 Internxt
 INXT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xa8006c4ca56f24d6836727d106349320db7fef82'}
-{'USD': {'price': 2.55018293383, 'volume_24h': 20534.1812592346, 'percent_change_1h': -0.93919, 'percent_change_24h': 2.93077, 'percent_change_7d': 32.5792, 'market_cap': 1605619.5115351053, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-428
+{'USD': {'price': 2.54849007746, 'volume_24h': 20520.53392587, 'percent_change_1h': -0.509018, 'percent_change_24h': 1.80166, 'percent_change_7d': 32.3387, 'market_cap': 1604553.673009625, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+427
 SafeInsure
 SINS
 None
-{'USD': {'price': 2.49686585645, 'volume_24h': 573944.457719435, 'percent_change_1h': -0.172512, 'percent_change_24h': -0.711981, 'percent_change_7d': 22.8901, 'market_cap': 4931153.487633965, 'last_updated': '2019-03-26T10:42:08.000Z'}}
-2019
-Boltt Coin 
-BOLTT
-{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x688478f003b8d0f10b8af2122bf20378555ef958'}
-{'USD': {'price': 2.46296799351, 'volume_24h': 167.736036874783, 'percent_change_1h': 1.72313, 'percent_change_24h': -5.63037, 'percent_change_7d': -23.2848, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 2.49369826519, 'volume_24h': 577339.439508644, 'percent_change_1h': -0.0736533, 'percent_change_24h': -0.758984, 'percent_change_7d': 22.5476, 'market_cap': 4925203.916848794, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 30
 Qtum
 QTUM
 None
-{'USD': {'price': 2.45135736418, 'volume_24h': 166687314.356987, 'percent_change_1h': 0.0431639, 'percent_change_24h': -4.47718, 'percent_change_7d': -2.52213, 'market_cap': 219031212.2359883, 'last_updated': '2019-03-26T10:42:04.000Z'}}
-216
+{'USD': {'price': 2.4670112187, 'volume_24h': 169382585.969183, 'percent_change_1h': 0.676882, 'percent_change_24h': -3.75662, 'percent_change_7d': -1.94456, 'market_cap': 220429978.61033297, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+2019
+Boltt Coin 
+BOLTT
+{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x688478f003b8d0f10b8af2122bf20378555ef958'}
+{'USD': {'price': 2.46246958137, 'volume_24h': 167.702093405956, 'percent_change_1h': 1.79648, 'percent_change_24h': -5.25285, 'percent_change_7d': -23.3257, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+215
 Grin
 GRIN
 None
-{'USD': {'price': 2.42364145156, 'volume_24h': 12841335.6268059, 'percent_change_1h': -0.367451, 'percent_change_24h': -7.21147, 'percent_change_7d': -6.45568, 'market_cap': 14549119.63371468, 'last_updated': '2019-03-26T10:42:10.000Z'}}
-171
+{'USD': {'price': 2.42929961876, 'volume_24h': 13070136.0742791, 'percent_change_1h': -0.295653, 'percent_change_24h': -6.98927, 'percent_change_7d': -6.22142, 'market_cap': 14586146.528935917, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+172
 Particl
 PART
 None
-{'USD': {'price': 2.36666591233, 'volume_24h': 41712.4770773118, 'percent_change_1h': -0.00513575, 'percent_change_24h': -0.791502, 'percent_change_7d': 0.149928, 'market_cap': 19097763.246228687, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-809
+{'USD': {'price': 2.36508757041, 'volume_24h': 40435.1258779775, 'percent_change_1h': -0.0460375, 'percent_change_24h': -0.733431, 'percent_change_7d': 0.216772, 'market_cap': 19085026.847672086, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+812
 Ergo
 EFYT
 {'id': 1274, 'name': 'Waves', 'symbol': 'WAVES', 'slug': 'waves', 'token_address': '725Yv9oceWsB4GsYwyy4A52kEwyVrL5avubkeChSnL46'}
-{'USD': {'price': 2.29466771961, 'volume_24h': 5443.38714937914, 'percent_change_1h': -0.601064, 'percent_change_24h': -11.2489, 'percent_change_7d': -12.877, 'market_cap': 911671.485001053, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 2.2996112393, 'volume_24h': 5455.11411181163, 'percent_change_1h': -0.626109, 'percent_change_24h': -11.0198, 'percent_change_7d': -12.8072, 'market_cap': 913635.54537389, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 242
 Blocknet
 BLOCK
 None
-{'USD': {'price': 2.22042806536, 'volume_24h': 76422.9548744188, 'percent_change_1h': -0.00866798, 'percent_change_24h': -0.250562, 'percent_change_7d': -0.60405, 'market_cap': 12549591.28403742, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 2.22088683855, 'volume_24h': 76376.2164816629, 'percent_change_1h': 0.0374863, 'percent_change_24h': -0.221714, 'percent_change_7d': -0.592948, 'market_cap': 12552230.848055761, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 1807
 Aidos Kuneen
 ADK
 None
-{'USD': {'price': 2.21607266601, 'volume_24h': 2620143.74467538, 'percent_change_1h': -1.0232, 'percent_change_24h': 3.40527, 'percent_change_7d': -4.49385, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-659
-Pluton
-PLU
-{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xD8912C10681D8B21Fd3742244f44658dBA12264E'}
-{'USD': {'price': 1.97330764637, 'volume_24h': 19970.4449706056, 'percent_change_1h': 0.59619, 'percent_change_24h': -1.30101, 'percent_change_7d': -5.19395, 'market_cap': 1677310.5127606767, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-675
+{'USD': {'price': 2.20833778505, 'volume_24h': 2608511.29613314, 'percent_change_1h': -0.953354, 'percent_change_24h': 3.20035, 'percent_change_7d': -5.16474, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:05.000Z'}}
+677
 RoBET
 ROBET
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x2344871f523cbb28a4f60045531184cf1f03ad24'}
-{'USD': {'price': 1.95948216514, 'volume_24h': 11880.3506687207, 'percent_change_1h': -0.46824, 'percent_change_24h': -1.74518, 'percent_change_7d': -3.06107, 'market_cap': 1565033.155662738, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-416
+{'USD': {'price': 1.958175372, 'volume_24h': 11742.3824945163, 'percent_change_1h': -0.184924, 'percent_change_24h': -1.7366, 'percent_change_7d': -3.15494, 'market_cap': 1563989.42348284, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+414
 Counterparty
 XCP
 None
-{'USD': {'price': 1.95639823127, 'volume_24h': 3207.82147404198, 'percent_change_1h': -0.0110141, 'percent_change_24h': -4.97207, 'percent_change_7d': 4.50226, 'market_cap': 5117354.580429507, 'last_updated': '2019-03-26T10:42:02.000Z'}}
+{'USD': {'price': 1.95527929621, 'volume_24h': 3143.94239361766, 'percent_change_1h': -0.0393036, 'percent_change_24h': -4.67816, 'percent_change_7d': 4.41547, 'market_cap': 5114427.779861518, 'last_updated': '2019-03-26T11:00:03.000Z'}}
+661
+Pluton
+PLU
+{'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xD8912C10681D8B21Fd3742244f44658dBA12264E'}
+{'USD': {'price': 1.95251822741, 'volume_24h': 19899.6697546594, 'percent_change_1h': -0.829685, 'percent_change_24h': -2.35211, 'percent_change_7d': -6.09012, 'market_cap': 1659639.5170393863, 'last_updated': '2019-03-26T11:00:04.000Z'}}
 330
 ZrCoin
 ZRC
 {'id': 1274, 'name': 'Waves', 'symbol': 'WAVES', 'slug': 'waves', 'token_address': ''}
-{'USD': {'price': 1.93781775236, 'volume_24h': 48499.4024863092, 'percent_change_1h': -0.0944527, 'percent_change_24h': -0.281481, 'percent_change_7d': 1.47308, 'market_cap': 7685943.29737244, 'last_updated': '2019-03-26T10:42:03.000Z'}}
-1968
+{'USD': {'price': 1.93660907887, 'volume_24h': 48730.5467581221, 'percent_change_1h': -0.140042, 'percent_change_24h': -0.311992, 'percent_change_7d': 1.42027, 'market_cap': 7681149.350213134, 'last_updated': '2019-03-26T11:00:04.000Z'}}
+1969
 Countinghouse
 CHT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x799d214d7143b766cdd4979cd0280939288ba931'}
-{'USD': {'price': 1.92186439599, 'volume_24h': 8078.32557035504, 'percent_change_1h': 0.129156, 'percent_change_24h': -2.59107, 'percent_change_7d': -8.16558, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
-722
+{'USD': {'price': 1.92338360141, 'volume_24h': 8084.41395097972, 'percent_change_1h': 0.27381, 'percent_change_24h': -2.48178, 'percent_change_7d': -8.14013, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
+725
 Chronobank
 TIME
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x6531f133e6deebe7f2dce5a0441aa7ef330b4e53'}
-{'USD': {'price': 1.77910230908, 'volume_24h': 43042.7270873437, 'percent_change_1h': 0.154761, 'percent_change_24h': -2.22042, 'percent_change_7d': -4.45476, 'market_cap': 1263363.341401569, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 1.7730665933, 'volume_24h': 43220.7069436754, 'percent_change_1h': -0.148588, 'percent_change_24h': -2.48274, 'percent_change_7d': -4.85528, 'market_cap': 1259077.3023038434, 'last_updated': '2019-03-26T11:00:05.000Z'}}
 2114
 Dragon Token
 DT
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0x1da015ea4ad2d3e5586e54b9fb0682ca3ca8a17a'}
-{'USD': {'price': 1.74031346822, 'volume_24h': 0, 'percent_change_1h': -0.0269522, 'percent_change_24h': -0.310936, 'percent_change_7d': -4.09942, 'market_cap': 0, 'last_updated': '2019-03-26T10:42:09.000Z'}}
+{'USD': {'price': 1.73982660152, 'volume_24h': 0, 'percent_change_1h': -0.0752201, 'percent_change_24h': -0.362251, 'percent_change_7d': -4.13537, 'market_cap': 0, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 28
 OmiseGO
 OMG
 {'id': 1027, 'name': 'Ethereum', 'symbol': 'ETH', 'slug': 'ethereum', 'token_address': '0xd26114cd6EE289AccF82350c8d8487fedB8A0C07'}
-{'USD': {'price': 1.62141878196, 'volume_24h': 72197866.3786216, 'percent_change_1h': 0.288903, 'percent_change_24h': -5.79723, 'percent_change_7d': 8.51128, 'market_cap': 227396522.7981187, 'last_updated': '2019-03-26T10:42:05.000Z'}}
+{'USD': {'price': 1.62153102734, 'volume_24h': 72527441.995277, 'percent_change_1h': 0.519138, 'percent_change_24h': -5.60578, 'percent_change_7d': 8.45213, 'market_cap': 227412264.696138, 'last_updated': '2019-03-26T11:00:06.000Z'}}
 909
 Stakinglab
 LABX
 None
-{'USD': {'price': 1.53886100222, 'volume_24h': 35976.0244962468, 'percent_change_1h': 9.2969, 'percent_change_24h': 22.8113, 'percent_change_7d': -44.3639, 'market_cap': 549393.7269711851, 'last_updated': '2019-03-26T10:42:10.000Z'}}
+{'USD': {'price': 1.54566051391, 'volume_24h': 35883.1107894236, 'percent_change_1h': 5.72346, 'percent_change_24h': 24.8872, 'percent_change_7d': -44.28, 'market_cap': 551851.8092022896, 'last_updated': '2019-03-26T11:00:10.000Z'}}
 147
 TokenPay
 TPAY
 None
-{'USD': {'price': 1.52339460413, 'volume_24h': 245947.3123959, 'percent_change_1h': -1.78488, 'percent_change_24h': -3.9614, 'percent_change_7d': -12.8848, 'market_cap': 24256237.356026493, 'last_updated': '2019-03-26T10:42:07.000Z'}}
+{'USD': {'price': 1.51975386254, 'volume_24h': 258069.252401225, 'percent_change_1h': -1.9533, 'percent_change_24h': -4.08884, 'percent_change_7d': -13.0687, 'market_cap': 24198304.816681672, 'last_updated': '2019-03-26T11:00:07.000Z'}}
 35
 Lisk
 LSK
 None
-{'USD': {'price': 1.50057254222, 'volume_24h': 5568923.48061019, 'percent_change_1h': -0.165116, 'percent_change_24h': -2.11299, 'percent_change_7d': -1.07472, 'market_cap': 173532253.8717117, 'last_updated': '2019-03-26T10:42:03.000Z'}}
+{'USD': {'price': 1.49852988635, 'volume_24h': 5553548.78698729, 'percent_change_1h': -0.312137, 'percent_change_24h': -2.23745, 'percent_change_7d': -1.23666, 'market_cap': 173296572.38878003, 'last_updated': '2019-03-26T11:00:04.000Z'}}
