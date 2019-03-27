@@ -10,5 +10,29 @@ Using the Chuck Norris API in combination with the datamuse API
 
 '''
 import requests
-URLcn = 'https://api.chucknorris.io/'
-URLdm = 'https://www.datamuse.com/api/'
+from pprint import pprint
+import json
+URLcn = 'https://api.chucknorris.io/jokes/random'
+
+cnr = requests.get(URLcn)
+
+funny_dict = {}
+data = (cnr.json())
+joke = data['value']
+word_list = joke.split()
+old_joke = word_list[-1]
+new_joke = old_joke.replace(".", "")
+print(new_joke)
+
+
+URLdm = f'https://api.datamuse.com/words?rel_rhy={new_joke}'
+dmr = requests.get(URLdm)
+rhymes = (dmr.json())
+funny_list = []
+for i in rhymes:
+    funny_list.append(i["word"])
+    funny_dict[joke] = funny_list
+print(funny_dict)
+
+#no time to rhyme, crypto APIs await
+
